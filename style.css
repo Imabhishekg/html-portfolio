@@ -4,10 +4,12 @@ html{
 h1{ color:white;
     text-align: center;
     font-family: 'Libre Baskerville', serif
+   text-transform:capitalize;
 }
 div{
     width: 50%;
     margin-left:25%;
+    margin-top:25%;
 }
 img{
     width:100%;
